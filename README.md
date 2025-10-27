@@ -1,2 +1,2 @@
-# Github-basics
-Basics to github
+# Github-basics for new users
+Basics to github.
